@@ -26,6 +26,7 @@
         cities: [],
         cityNameInput: '',
         cityPopulation: 0
+        // daw
       };
     },
 
